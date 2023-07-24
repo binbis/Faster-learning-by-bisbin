@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Fast Learner update</name>
+	<author>bisbin</author>
+    <supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>	
+	<description>Learning skills is 5 times faster.</description>
+    <packageId>bisbin.FastLearner</packageId>
+</ModMetaData>
